@@ -46,7 +46,7 @@ export default function Lesson9Screen() {
           headerStyle: { backgroundColor: 'black' },
           headerTintColor: 'white',
           headerTitleAlign: 'center',
-          headerTitle: 'Lesson 9 - Tab Navigation',
+          headerTitle: 'Lesson 9',
           headerLeft: () => (
             <TouchableOpacity
               onPress={() => navigation.goBack()}

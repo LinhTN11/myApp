@@ -65,7 +65,7 @@ export default function Lesson10Screen() {
           headerStyle: { backgroundColor: 'black' },
           headerTintColor: 'white',
           headerTitleAlign: 'center',
-          title: selectedStudent ? 'Chi tiết sinh viên' : 'Lesson 10 - Danh sách SV',
+          title: selectedStudent ? 'Chi tiết sinh viên' : 'Lesson 10',
           headerLeft: () => (
             <TouchableOpacity
               onPress={() =>
